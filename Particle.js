@@ -2,7 +2,7 @@ class Particle{
     constructor(x, y){
         var Options = {
             isStatic : false,
-            restitution : 1.3,
+            restitution : 1,
             friction : 1,
             density : 0.6
         }
